@@ -1,0 +1,21 @@
+{
+  "name": "node.js_jsaqa7.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.37.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-unicorn": "^47.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.8.7"
+  },
+  "description": ""
+}
